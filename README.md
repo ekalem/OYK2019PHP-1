@@ -13,6 +13,7 @@ Komut | Açıklamaları
 ```sudo apt update```  | Paket listesini günceller.
 ```sudo apt upgrade``` | Sistemde kurulu paketleri günceller.
 
+![PHP Logo](php.jpeg)
 ## PAKET YÖNETİCİLERİ
 
 ### Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
